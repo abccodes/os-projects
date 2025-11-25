@@ -32,7 +32,7 @@ If you use any code or concepts from this repository, include a citation in your
 | HW1 | `commandline` | Command Line Arguments - Introduction to C programming and command line argument handling |
 | HW2 | `bufferandstruct` | Buffering and Structures - Working with pointers, structures, and block operations |
 | HW3 | `simpleshell` | Simple Shell with Pipes - Process creation using fork, exec, wait, and pipe implementation |
-| HW4 | `policedatathreads` | Processing FLR Data with Threads - Multi-threaded data processing with mutex locks |
+| HW4 | `policedatathreads` | Processing Fixed Length Record (FLR) Data with Threads - Multi-threaded data processing with mutex locks |
 | HW5 | `buffered-io` | Buffered I/O - Implementing buffered read operations for file handling |
 | HW6 | `device-driver` | Device Driver - Linux kernel module development with user/application interaction |
 | Group Project | `filesystem` | File System - Complete file system implementation with directory structures and file operations |
